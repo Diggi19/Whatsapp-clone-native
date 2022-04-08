@@ -1,0 +1,3 @@
+chat room data setup - 2:21:22
+shortlisting contacts which are on firebase from my contact list - 2:58:00
+getting messages - 3:39:11
